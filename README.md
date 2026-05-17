@@ -23,6 +23,16 @@ You must have already:
 
 Without those, the action will show a "no account configured" message and exit.
 
+## Manual-sync via hotkey
+
+To trigger a sync on demand by pressing a key (or key combo):
+
+1. **Top menu → Settings → Navigation → Physical buttons → Keyboard shortcuts → Function keys → Select one of the options → General**
+2. Find **Synchronize Dropbox (patch)** in the list
+3. Tap it and assign the key (or gesture) you want to use
+
+From then on, pressing that key from anywhere in KOReader will fire the sync.
+
 ## Auto-sync on startup
 
 To sync automatically every time KOReader starts:
